@@ -30,4 +30,4 @@ Para rodar os testes, siga os seguintes passos:
 - Digite o comando "npx cypress open";
 - Selecionar "E2E Testing";
 - Selecionar o navegador a ser utilizado no teste;
-- Selecionar o arquivo de teste desejado (exemplo: "register.cy.js") e aguardar a execução.
+- Selecionar o arquivo de teste desejado (exemplo: "login.cy.js") e aguardar a execução.
